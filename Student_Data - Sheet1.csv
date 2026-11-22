@@ -1,0 +1,13 @@
+Student ID,Name,Department,Attendance %,Marks,result,Attendance status,calculations,
+S104,Divya,AIDS,95,94,Pass,Good Attendance,total marks,897
+S101,Arun,AIDS,92,88,Pass,Good Attendance,average marks,74.75
+S109,Anitha,AIDS,68,48,Fail,Low Attendance,highest marks,94
+S110,Vijay,CSE,96,89,Pass,Good Attendance,lowest marks,48
+S102,Priya,CSE,85,76,Pass,Good Attendance,total students,12
+S106,Rahul,CSE,70,58,Pass,Low Attendance,,
+S105,Nisha,ECE,88,82,Pass,Good Attendance,,
+S108,Sanjay,ECE,80,73,Pass,Good Attendance,,
+S112,Manoj,ECE,75,55,Pass,Good Attendance,,
+S107,Meena,IT,90,91,Pass,Good Attendance,,
+S111,Deepa,IT,83,78,Pass,Good Attendance,,
+S103,Karthik,IT,78,65,Pass,Good Attendance,,
